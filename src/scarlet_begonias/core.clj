@@ -1,4 +1,5 @@
-(ns scarlet-begonias.core)
+(ns scarlet-begonias.core
+  (:genclass))
 
 (defn franklins-tower
   [x]
